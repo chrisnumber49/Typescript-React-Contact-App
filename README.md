@@ -23,6 +23,6 @@ To Visit App: `localhost:3000/`
 
 ## Reflection
 
-This was my first side project of learning React with TypeScript. In this project I built an application that can search, add, update, delete and check the detail of contact information. I started this project by using the command `create-react-app --template typescript` to create the boilerplate, then several additional library `Bootstrap`, `uuid` and `react-router-dom` were installed during the development in this project.
+This is my first side project of learning React with TypeScript. In this project I built an application that can search, add, update, delete and check the detail of contact information. I started this project by using the command `create-react-app --template typescript` to create the boilerplate, then several additional library `Bootstrap`, `uuid` and `react-router-dom` were installed during the development in this project.
 
 The technologies implemented in this project include React, uuid, React Router, Bootstrap, and a significant amount of VanillaJS, Typescript, TSX, and CSS. Through this side project, I learned about the basic concept of functional component and React hooks with Typescript and how to switch the component rendering and pass the props between component Via React-Router.
